@@ -33,3 +33,6 @@ https://stv.puslapiai.lt/live/stv/index.m3u8
 #EXTINF:-1 tvg-id="2TV_CG" tvg-name="2TV" tvg-logo="" group-title="Entertainment",2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-id="LRT_LITUANICA" tvg-name="LRT Lituanica" tvg-logo="" group-title="News",LRT Lituanica
+
+#EXTINF:-1 tvg-id="NICKTOONS_GEO" tvg-name="Nicktoons [24/7] [Geo-Blocked]" tvg-logo="" group-title="Kids",Nicktoons [24/7] [Geo-Blocked]
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
