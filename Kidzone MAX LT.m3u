@@ -26,3 +26,10 @@ https://example.com/streams/deluxemusic.m3u8
 https://example.com/streams/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="KIDZONE_MINI" tvg-name="KIDZONE MINI" tvg-logo="" group-title="Kids",KIDZONE MINI
 https://example.com/streams/kidzonemini.m3u8
+#EXTINF:-1 tvg-id="PUKAS_TV" tvg-name="PukasTV" tvg-logo="" group-title="General",PukasTV
+https://pukas.lt/pukas_televizija.m3u8
+#EXTINF:-1 tvg-id="ETAPLIUS_TV" tvg-name="Etaplius TV" tvg-logo="" group-title="General",Etaplius TV
+https://stv.puslapiai.lt/live/stv/index.m3u8
+#EXTINF:-1 tvg-id="2TV_CG" tvg-name="2TV" tvg-logo="" group-title="Entertainment",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="LRT_LITUANICA" tvg-name="LRT Lituanica" tvg-logo="" group-title="News",LRT Lituanica
