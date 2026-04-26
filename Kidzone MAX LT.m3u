@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KidzoneMAXLT_Cgates" tvg-name="Kidzone MAX LT (Cgates)" tvg-logo="" group-title="Kids",Kidzone MAX LT (Cgates)
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="LNK_LT" tvg-name="LNK" tvg-logo="" group-title="Entertainment",LNK
+https://example.com/streams/lnk.m3u8
+#EXTINF:-1 tvg-id="BTV_LT" tvg-name="BTV" tvg-logo="" group-title="Entertainment",BTV
+https://example.com/streams/btv.m3u8
+#EXTINF:-1 tvg-id="TV1_LT" tvg-name="TV1" tvg-logo="" group-title="Entertainment",TV1
+https://example.com/streams/tv1.m3u8
+#EXTINF:-1 tvg-id="2TV_LT" tvg-name="2TV" tvg-logo="" group-title="Entertainment",2TV
+https://example.com/streams/2tv.m3u8
+#EXTINF:-1 tvg-id="INFOTV_LT" tvg-name="INFO TV" tvg-logo="" group-title="News",INFO TV
+https://example.com/streams/infotv.m3u8
+#EXTINF:-1 tvg-id="TV6_LT" tvg-name="TV6" tvg-logo="" group-title="Entertainment",TV6
+https://example.com/streams/tv6.m3u8
+#EXTINF:-1 tvg-id="TV3_LT" tvg-name="TV3" tvg-logo="" group-title="Entertainment",TV3
+https://example.com/streams/tv3.m3u8
+#EXTINF:-1 tvg-id="TV8_LT" tvg-name="TV8" tvg-logo="" group-title="Entertainment",TV8
+https://example.com/streams/tv8.m3u8
+#EXTINF:-1 tvg-id="DELFI_TV" tvg-name="DELFI TV" tvg-logo="" group-title="News",DELFI TV
+https://example.com/streams/delfitv.m3u8
+#EXTINF:-1 tvg-id="DELUXE_MUSIC" tvg-name="DELUXE MUSIC" tvg-logo="" group-title="Music",DELUXE MUSIC
+https://example.com/streams/deluxemusic.m3u8
+#EXTINF:-1 tvg-id="CARTOON_NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Kids",CARTOON NETWORK
+https://example.com/streams/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="KIDZONE_MINI" tvg-name="KIDZONE MINI" tvg-logo="" group-title="Kids",KIDZONE MINI
+https://example.com/streams/kidzonemini.m3u8
