@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="KidzoneMAXLT_Cgates" tvg-name="Kidzone MAX LT (Cgates)" tvg-logo="" group-title="Kids",Kidzone MAX LT (Cgates)
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
