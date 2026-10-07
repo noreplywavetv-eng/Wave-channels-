@@ -5,7 +5,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
 #EXTINF:-1 tvg-id="LNK_LT" tvg-name="LNK" tvg-logo="" group-title="Entertainment",LNK
 https://example.com/streams/lnk.m3u8
 #EXTINF:-1 tvg-id="BTV_LT" tvg-name="BTV" tvg-logo="" group-title="Entertainment",BTV
-https://example.com/streams/btv.m3u8
+https://dai.google.com/linear/hls/pa/event/oGYtSC62TSu31r7xmV1OoQ/stream/cf13f48c-83d9-4c83-9971-5570b281b959:BRU/master.m3u8
 #EXTINF:-1 tvg-id="TV1_LT" tvg-name="TV1" tvg-logo="" group-title="Entertainment",TV1
 https://example.com/streams/tv1.m3u8
 #EXTINF:-1 tvg-id="2TV_LT" tvg-name="2TV" tvg-logo="" group-title="Entertainment",2TV
